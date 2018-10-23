@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "IntelliJ Productivity",
+    "packageVersion": "0.0.1",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

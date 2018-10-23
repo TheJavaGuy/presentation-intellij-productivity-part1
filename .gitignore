@@ -1,3 +1,7 @@
+dist
+.sass-cache
+/index.html
+
 # Logs
 logs
 *.log
